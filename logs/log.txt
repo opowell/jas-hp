@@ -1,0 +1,55 @@
+Starting!!
+loading apps: /Users/op/repos/jtree3/src/built-in-apps
+loading app: launchpad /Users/op/repos/jtree3/src/built-in-apps/launchpad
+loading apps: /Users/op/repos/jtree3/src/apps
+loading app: civ1 /Users/op/repos/jtree3/src/apps/civ1
+loading app: lloyds-adventure /Users/op/repos/jtree3/src/apps/lloyds-adventure
+loading app: rogue /Users/op/repos/jtree3/src/apps/rogue
+loading app: rogue2 /Users/op/repos/jtree3/src/apps/rogue2
+loading app: tic-tac-toe /Users/op/repos/jtree3/src/apps/tic-tac-toe
+loading app: vogue /Users/op/repos/jtree3/src/apps/vogue
+JAS - http://10.254.254.254:3000
+Starting!!
+loading apps: /Users/op/repos/jtree3/src/built-in-apps
+loading app: launchpad /Users/op/repos/jtree3/src/built-in-apps/launchpad
+loading apps: /Users/op/repos/jtree3/src/apps
+loading app: civ1 /Users/op/repos/jtree3/src/apps/civ1
+loading app: lloyds-adventure /Users/op/repos/jtree3/src/apps/lloyds-adventure
+loading app: rogue /Users/op/repos/jtree3/src/apps/rogue
+loading app: rogue2 /Users/op/repos/jtree3/src/apps/rogue2
+loading app: tic-tac-toe /Users/op/repos/jtree3/src/apps/tic-tac-toe
+loading app: vogue /Users/op/repos/jtree3/src/apps/vogue
+JAS - http://10.254.254.254:3000
+Starting!!
+loading apps: /Users/op/repos/jtree3/src/built-in-apps
+loading app: launchpad /Users/op/repos/jtree3/src/built-in-apps/launchpad
+loading apps: /Users/op/repos/jtree3/src/apps
+loading app: civ1 /Users/op/repos/jtree3/src/apps/civ1
+loading app: lloyds-adventure /Users/op/repos/jtree3/src/apps/lloyds-adventure
+loading app: rogue /Users/op/repos/jtree3/src/apps/rogue
+loading app: rogue2 /Users/op/repos/jtree3/src/apps/rogue2
+loading app: tic-tac-toe /Users/op/repos/jtree3/src/apps/tic-tac-toe
+loading app: vogue /Users/op/repos/jtree3/src/apps/vogue
+JAS - http://10.254.254.254:3000
+Starting!!
+loading apps: /Users/op/repos/jtree3/src/built-in-apps
+loading app: launchpad /Users/op/repos/jtree3/src/built-in-apps/launchpad
+loading apps: /Users/op/repos/jtree3/src/apps
+loading app: civ1 /Users/op/repos/jtree3/src/apps/civ1
+loading app: lloyds-adventure /Users/op/repos/jtree3/src/apps/lloyds-adventure
+loading app: rogue /Users/op/repos/jtree3/src/apps/rogue
+loading app: rogue2 /Users/op/repos/jtree3/src/apps/rogue2
+loading app: tic-tac-toe /Users/op/repos/jtree3/src/apps/tic-tac-toe
+loading app: vogue /Users/op/repos/jtree3/src/apps/vogue
+JAS - http://10.254.254.254:3000
+Starting!!
+loading apps: /Users/op/repos/jas/src/built-in-apps
+loading app: launchpad /Users/op/repos/jas/src/built-in-apps/launchpad
+loading apps: /Users/op/repos/jas/src/apps
+loading app: civ1 /Users/op/repos/jas/src/apps/civ1
+loading app: lloyds-adventure /Users/op/repos/jas/src/apps/lloyds-adventure
+loading app: rogue /Users/op/repos/jas/src/apps/rogue
+loading app: rogue2 /Users/op/repos/jas/src/apps/rogue2
+loading app: tic-tac-toe /Users/op/repos/jas/src/apps/tic-tac-toe
+loading app: vogue /Users/op/repos/jas/src/apps/vogue
+JAS - http://10.254.254.254:3000
