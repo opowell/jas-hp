@@ -1,0 +1,3 @@
+[submodule "jas"]
+	path = jas
+	url = https://github.com/opowell/jas
